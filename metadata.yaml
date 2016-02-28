@@ -1,0 +1,26 @@
+_repo: When-Valmond-Came-to-Pontiac-The-Story-of-a-Lost-Napoleon-Volume-2_6203
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian fiction'
+- !lcc 'PS'
+title: 'When Valmond Came to Pontiac: The Story of a Lost Napoleon. Volume 2.'
+url: http://www.gutenberg.org/ebooks/6203
